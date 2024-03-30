@@ -1,5 +1,5 @@
 import React from 'react';
-import vg from "../assets/2.webp";
+import vg from "../assets/1.webp";
 import {AiFillGoogleCircle,AiFillAmazonCircle,AiFillFacebook,AiFillYoutube} from 'react-icons/ai'
 
 const Home = () => {
@@ -7,7 +7,7 @@ const Home = () => {
     <>
      <div className='home' id="home">
         <main>
-            <h1>KLG CLASSES</h1>
+            <h1>TECH-HUB</h1>
             <p>Solution to all your problems</p>
 
         </main>
