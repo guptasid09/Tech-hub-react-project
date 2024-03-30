@@ -1,0 +1,14 @@
+@import "colors";
+
+.services{
+    background-color: $second;
+div{
+
+    background-color: $second;
+
+>p{
+    font: 400 2rem $first;
+    color: $first;
+}
+}
+}
